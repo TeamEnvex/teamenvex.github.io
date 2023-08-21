@@ -9,7 +9,7 @@
 }
 
 body{
-    background: #00002a;
+    background:#1D1E2D;
     color: #d2d2d2;
 }
 
@@ -42,7 +42,7 @@ body{
 }
 
 .navbar ul li .active{
-    color: #FF0040;
+    color: orange;
 }
 
 .navbar ul li a:hover{
@@ -65,7 +65,7 @@ body{
 
 .contant .right h3{
     font-size: 30px;
-    color: #FF0040;
+    color: orange;
 }
 
 .contant .right p{
@@ -76,9 +76,9 @@ body{
 .contant .right button{
     border: none;
     outline: none;
-    background: #FF0040;
+    background: orange;
     padding: 10px 40px;
-    color: #d2d2d2;
+    color: black;
     font-weight: 600;
     cursor: pointer;
     border-bottom-left-radius: 20px;
@@ -99,7 +99,7 @@ body{
 
 .social i{
     cursor: pointer;
-    color: #FF0040;
+    color: orange;
     font-size: 35px;
     margin-right: 40px;
    
